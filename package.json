@@ -20,7 +20,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^16.11.10",
+    "@types/node": "^16.18.126",
     "sync-request": "6.1.0"
   },
   "bundledDependencies": [
